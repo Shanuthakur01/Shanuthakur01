@@ -46,20 +46,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-</a>
-
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="30" />
-</a>
-</p>
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
