@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **AI Automation & Agentic AI**
 - 🤝 I’m looking for help with **Node.js Projects**
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js**
-- 📫 How to reach me: **your@email.com**
+- 📫 How to reach me: **bt075590@gmail.com**
 
 ---
 
@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanuthakur01&theme=tokyonight" />
 </p>
