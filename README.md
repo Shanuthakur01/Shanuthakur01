@@ -1,46 +1,97 @@
 <h1 align="center">Hi 👋, I'm Sanu Thakur</h1>
-<h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer | Python Developer | AI Enthusiast 🚀</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Python+Developer;AI+Automation+Learner;Building+Scalable+Apps&center=true&width=500&height=50">
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Node.js**
-- 🌱 I’m currently learning **AI Automation & Agentic AI**
-- 🤝 I’m looking for help with **Node.js Projects**
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js**
-- 📫 How to reach me: **bt075590@gmail.com**
+- 🔭 Currently building **scalable backend systems using Node.js & Python**
+- 🌱 Learning **AI Automation, Agentic AI & Advanced Python**
+- 👯 Open to collaborate on **Backend, AI & Full Stack Projects**
+- 💬 Ask me about **Python, JavaScript, Node.js, React, APIs, Databases**
+- 📫 Reach me at: **bt075590@gmail.com**
 
 ---
 
-### 🌐 Connect with me
+## 🧠 Tech Stack
+
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java" />
+</p>
+
+### ⚙️ Backend & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django" />
+</p>
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws" />
+</p>
+
+### 🛠️ Tools & OS
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+---
+
+## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="30" />
 </a>
 
-<a href="https://instagram.com/yourprofile" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" />
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="30" />
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 📊 GitHub Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,aws,linux,java,html,css" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shanuthakur01&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanuthakur01&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanuthakur01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🧩 Featured Projects
+
+- 🚀 **AI Resume Builder** – Smart resume generator using AI
+- 📊 **LMS Platform** – Scalable learning system with video + progress tracking
+- 🧠 **Coding Practice Platform** – LeetCode-style problem solving system
+
+---
+
+## 🧭 Current Focus
+
+- 🔥 AI-powered applications
+- ⚡ Backend performance & scalability
+- ☁️ Cloud deployment (AWS, Docker)
+
+---
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanuthakur01&theme=tokyonight" />
+🔥 Building. Learning. Scaling.
 </p>
