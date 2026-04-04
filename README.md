@@ -46,22 +46,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shanuthakur01&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanuthakur01&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanuthakur01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🧩 Featured Projects
 
 - 🚀 **AI Resume Builder** – Smart resume generator using AI
