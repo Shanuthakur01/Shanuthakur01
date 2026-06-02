@@ -49,7 +49,7 @@
 ## 🧩 Featured Projects
 
 - 🚀 **AI Resume Builder** – Smart resume generator using AI
-- 📊 **LMS Platform** – Scalable learning system with video + progress tracking
+- 📊 **LMS Platform** –- Scalable learning system with video + progress tracking
 - 🧠 **Coding Practice Platform** – LeetCode-style problem solving system 
 
 ---
